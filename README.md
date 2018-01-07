@@ -14,8 +14,10 @@ For this project you will need:
 * Raspberry Pi (in our case: Raspberry Pi 3 Model B)
 * 3 LED diodes (green, yellow and red) for representing the mood, calculated from the sentiment analysis
 * 3 resistors (in our case 330 Ohm) to protect your GPIO pins
-* jump wires  
+* jump wires
+
 Now, you have to connect the led diodes on the specific GPIO pins on the Raspberry Pi (you can choose other pins, but you will have to refactor the code afterwards).
+
 Make sure you Raspberry Pi is turned off. Then, connect the resistors on the anodes of the LED diodes. After that, you should connect your green diode on the pin 21, yellow on the pin 24 and the red on the pin 15. All of the cathodes should be connected to the Ground pins. Now you are all set to jump on the next step!
 
 STEP 3: Import the packages 🚚
