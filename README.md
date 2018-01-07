@@ -23,26 +23,26 @@ Make sure you Raspberry Pi is turned off. Then, connect the resistors on the ano
 STEP 3: Import the packages 🚚
 ---
 You'll need a couple of packages in order for the code to work.
-• Tweepy: python library for the official Twitter API.
+* Tweepy: python library for the official Twitter API.
 	pip3 install tweepy
-• TextBlob: python library for processing textual data.
+* TextBlob: python library for processing textual data.
 	pip3 install textblob
-• Pillow: python library for the user interface.
+* Pillow: python library for the user interface.
 	pip3 install pillow
 
 The following packages usually come bundled with python3, but in case you get compilation error, simply install them using the pip3 command:
-• Statistics: python library for statistics.
-• Matplotlib: python library for graphics representation of data.
-• Tkinter: python library for the user interface.
-• RPi.GPIO: python library that's available only on a RaspberryPi (but hey, we're doing this for a RasberryPi exclusively), that manages the GPIO pins.
+* Statistics: python library for statistics.
+* Matplotlib: python library for graphics representation of data.
+* Tkinter: python library for the user interface.
+* RPi.GPIO: python library that's available only on a RaspberryPi (but hey, we're doing this for a RasberryPi exclusively), that manages the GPIO pins.
 
-*NOTE: In order to test this on desktop: simply comment out 'import led_manager.py' in the main.py script.
+*NOTE*: In order to test this on desktop: simply comment out 'import led_manager.py' in the main.py script.
 
 STEP 4: Implementation 🛠
 ---
 Place the following scripts together in a directory on the RaspberryPi:
 
-main.py - The entry point for the app. (run this script in the console).
-sentiment_analysis.py - Script that connects to the Twitter API, processes the data and generates results.
-pie.py - Script that generates a graphic representation of the results.
-led_manager.py - Script that handles the diodes on the RaspberryPi.
+* main.py - The entry point for the app. (run this script in the console).
+* sentiment_analysis.py - Script that connects to the Twitter API, processes the data and generates results.
+* pie.py - Script that generates a graphic representation of the results.
+* led_manager.py - Script that handles the diodes on the RaspberryPi.
