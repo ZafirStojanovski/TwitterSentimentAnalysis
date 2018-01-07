@@ -46,3 +46,5 @@ Place the following scripts together in a directory on the RaspberryPi:
 * sentiment_analysis.py - Script that connects to the Twitter API, processes the data and generates results.
 * pie.py - Script that generates a graphic representation of the results.
 * led_manager.py - Script that handles the diodes on the RaspberryPi.
+
+*Contributors*: **Zafir Stojanovski (151015) & Filip Spasovski (151049)**
