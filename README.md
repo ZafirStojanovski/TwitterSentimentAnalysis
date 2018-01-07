@@ -5,6 +5,7 @@ STEP 1: What is sentiment analysis, and why should you care about it? 😄 😐 
 ---	
   Sentiment analysis is the process of determining the emotional tone behind a series of words, used to gain an understanding of the the attitudes, opinions and emotions expressed within an online mention.
 	Sentiment analysis is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics. The applications are broad and powerful. The ability to extract insights from social data is a practice that is being widely adopted by organisations across the world.
+	
 	Fun fact: 
 		The Obama administration used sentiment analysis to gauge public opinion to policy announcements and campaign messages ahead of 2012 presidential election.😎
 
