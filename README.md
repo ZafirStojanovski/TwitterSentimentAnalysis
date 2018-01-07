@@ -9,7 +9,8 @@ Fun fact:
 The Obama administration used sentiment analysis to gauge public opinion to policy announcements and campaign messages ahead of 2012 presidential election.😎
 
 STEP 2: Wiring up! 🔌
-	For this project you will need:
+---
+For this project you will need:
     • Raspberry Pi (in our case: Raspberry Pi 3 Model B)
     • 3 LED diodes (green, yellow and red) for representing the mood, calculated from the sentiment analysis
     • 3 resistors (in our case 330 Ohm) to protect your GPIO pins
