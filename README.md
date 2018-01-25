@@ -1,4 +1,4 @@
-TWITTER SENTIMENT ANALYSIS
+TWITTER SENTIMENT ANALYSIS 🐦
 ===
 
 STEP 1: What is sentiment analysis, and why should you care about it? 😄 😐 😭
