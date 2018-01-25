@@ -1,14 +1,14 @@
 TWITTER SENTIMENT ANALYSIS 🐦
 ===
 
-STEP 1: What is sentiment analysis, and why should you care about it? 😄 😐 😭
+What is sentiment analysis, and why should you care about it? 😄 😐 😭
 ---	
   Sentiment analysis is the process of determining the emotional tone behind a series of words, used to gain an understanding of the the attitudes, opinions and emotions expressed within an online mention.
 	Sentiment analysis is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics. The applications are broad and powerful. The ability to extract insights from social data is a practice that is being widely adopted by organisations across the world.  
 Fun fact: 
 The Obama administration used sentiment analysis to gauge public opinion to policy announcements and campaign messages ahead of 2012 presidential election.😎
 
-STEP 2: Wiring up! 🔌
+STEP 1: Wiring up! 🔌
 ---
 For this project you will need:
 * Raspberry Pi (in our case: Raspberry Pi 3 Model B)
@@ -20,7 +20,7 @@ Now, you have to connect the led diodes on the specific GPIO pins on the Raspber
 
 Make sure you Raspberry Pi is turned off. Then, connect the resistors on the anodes of the LED diodes. After that, you should connect your green diode on the pin 21, yellow on the pin 24 and the red on the pin 15. All of the cathodes should be connected to the Ground pins. Now you are all set to jump on the next step!
 
-STEP 3: Import the packages 🚚
+STEP 2: Import the packages 🚚
 ---
 You'll need a couple of packages in order for the code to work.
 * Tweepy: python library for the official Twitter API.
@@ -38,7 +38,7 @@ The following packages usually come bundled with python3, but in case you get co
 
 *NOTE*: In order to test this on desktop: simply comment out 'import led_manager.py' in the main.py script.
 
-STEP 4: Implementation 🛠
+STEP 3: Implementation 🛠
 ---
 Place the following scripts together in a directory on the RaspberryPi:
 
