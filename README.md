@@ -1,4 +1,4 @@
-TWITTER SENTIMENT ANALYSIS 🐦
+TWITTER SENTIMENT ANALYSIS with Raspberry Pi 3
 ===
 
 What is sentiment analysis, and why should you care about it? 😄 😐 😭
