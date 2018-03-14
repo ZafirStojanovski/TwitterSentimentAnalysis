@@ -47,5 +47,5 @@ Place the following scripts together in a directory on the RaspberryPi:
 * pie.py - Script that generates a graphic representation of the results.
 * led_manager.py - Script that handles the diodes on the RaspberryPi.
 
-*Contributors*: **Zafir Stojanovski (151015) & Filip Spasovski (151049)**
+*Contributors*: **Zafir Stojanovski (151015) & Filip Spasovski (151049)**  
 Published on Instructables (http://www.instructables.com/id/Twitter-Sentiment-Analysis-With-Raspberry-Pi/)
